@@ -20,4 +20,3 @@ jobs:
           # BACKGROUND_FIRST: '#020E27'
           # BACKGROUND_SECOND: '#0E5593'
           # LANG: 'ja'
-          https://lapras-card-generator.vercel.app/?e=2.7&b=2.7&i=2.8&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en
