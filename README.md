@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/ZTOIXW9" target="_blank" rel="noopener noreferrer"><img alt="ZTOIXW9's scores on LAPRAS are as follows: Engineering: 3.34 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.01 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.34&b=3.36&i=3.01&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
-Last Updated on 2/1/2024, 12:13:34 AM</p>
+<p ><a href="https://lapras.com/public/ZTOIXW9" target="_blank" rel="noopener noreferrer"><img alt="ZTOIXW9's scores on LAPRAS are as follows: Engineering: 3.34 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.02 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.34&b=3.36&i=3.02&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
+Last Updated on 2/2/2024, 12:12:36 AM</p>
 <!--END_SECTION:lapras-card-->
