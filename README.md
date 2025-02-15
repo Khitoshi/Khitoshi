@@ -19,5 +19,8 @@ Last Updated on 2/15/2025, 12:17:06 AM</p>
 
 <!--START_SECTION:grid-snake-->
 <!--![](https://raw.githubusercontent.com/Khitoshi/Khitoshi/output/github-contribution-grid-snake.svg)-->
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Khitoshi/Khitoshi/output/github-contribution-grid-snake.svg?color=black)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khitoshi/Khitoshi/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Khitoshi/Khitoshi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
+</picture>
 <!--END_SECTION:grid-snake-->
