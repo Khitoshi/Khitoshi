@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
   <!--END_SECTION:github-stats-terminal-style-->
 
   <!--START_SECTION:gitHub-profile-summary-cards-->
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khitoshi&theme=dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khitoshi&theme=dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khitoshi&theme=dark&utcOffset=8)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khitoshi&theme=dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khitoshi&theme=dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khitoshi&theme=monokai)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khitoshi&theme=monokai)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khitoshi&theme=monokai&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khitoshi&theme=monokai)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khitoshi&theme=monokai)
   <!--END_SECTION:gitHub-profile-summary-cards-->
 
   <!--START_SECTION:lapras-card
