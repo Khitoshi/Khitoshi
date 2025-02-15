@@ -18,5 +18,6 @@ Last Updated on 2/15/2025, 12:17:06 AM</p>
 <!--END_SECTION:lapras-card-->
 
 <!--START_SECTION:grid-snake-->
-![](https://raw.githubusercontent.com/Khitoshi/Khitoshi/output/github-contribution-grid-snake.svg)
+<!--![](https://raw.githubusercontent.com/Khitoshi/Khitoshi/output/github-contribution-grid-snake.svg)-->
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Khitoshi/Khitoshi/output/github-contribution-grid-snake.svg?color=black)
 <!--END_SECTION:grid-snake-->
