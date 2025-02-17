@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="padding: 0;">https://youtu.be/Ti4K8uuiLZ0?si=yntEmZy9JRDtBate
+    <td style="padding: 0;">
       <a href="https://youtu.be/Ti4K8uuiLZ0?si=yntEmZy9JRDtBate" target="_blank">
         <img src="https://media1.tenor.com/m/KOEy7Z5vo0oAAAAC/needy-streamer-overload-needy-girl-overdose.gif" alt="Stats" width="100%">
       </a>
