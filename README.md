@@ -1,17 +1,3 @@
-<!---
-- 👋 Hi, I’m @Khitoshi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
---->
-
-<!---
-Khitoshi/Khitoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <table>
   <tr>
     <td>
@@ -24,11 +10,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-
-  <!--START_SECTION:grid-snake-->
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khitoshi/Khitoshi/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Khitoshi/Khitoshi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
-  </picture>
-  <!--END_SECTION:grid-snake-->
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khitoshi/Khitoshi/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Khitoshi/Khitoshi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" />
+</picture>
