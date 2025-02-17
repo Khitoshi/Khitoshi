@@ -1,11 +1,11 @@
-<table>
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td>
-      <!--ここにgif配置-->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khitoshi&theme=monokai" alt="Stats">
+    <td style="padding: 0; width: 60%;">
+      <img src="https://media1.tenor.com/m/KOEy7Z5vo0oAAAAC/needy-streamer-overload-needy-girl-overdose.gif" alt="Stats" width="100%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khitoshi&theme=monokai" alt="Stats" width="100%">
     </td>
-    <td>
-      <img src="https://github.com/Khitoshi/github-stats-terminal-style/blob/master/github_stats.svg" alt="GitHub Stats">
+    <td style="padding: 0; width: 40%;">
+      <img src="https://github.com/Khitoshi/github-stats-terminal-style/blob/master/github_stats.svg" alt="GitHub Stats" width="100%">
     </td>
   </tr>
 </table>
