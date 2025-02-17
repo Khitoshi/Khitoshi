@@ -5,7 +5,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khitoshi&theme=monokai" alt="Stats" width="100%">
     </td>
     <td style="padding: 0;">
-      <img src="https://github.com/Khitoshi/github-stats-terminal-style/blob/master/github_stats.svg" alt="GitHub Stats" width="100%">
+      <img src="https://github.com/Khitoshi/github-stats-terminal-style/blob/master/github_stats.svg" alt="GitHub Stats" width="1110">
     </td>
   </tr>
 </table>
